@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Develop-App-Router/static/css/main.a617e044.chunk.css",
+    "main.js": "/Develop-App-Router/static/js/main.de4a5a73.chunk.js",
+    "main.js.map": "/Develop-App-Router/static/js/main.de4a5a73.chunk.js.map",
+    "runtime-main.js": "/Develop-App-Router/static/js/runtime-main.c83f02bf.js",
+    "runtime-main.js.map": "/Develop-App-Router/static/js/runtime-main.c83f02bf.js.map",
+    "static/js/2.4786fb2a.chunk.js": "/Develop-App-Router/static/js/2.4786fb2a.chunk.js",
+    "static/js/2.4786fb2a.chunk.js.map": "/Develop-App-Router/static/js/2.4786fb2a.chunk.js.map",
+    "static/js/3.9eb8acfb.chunk.js": "/Develop-App-Router/static/js/3.9eb8acfb.chunk.js",
+    "static/js/3.9eb8acfb.chunk.js.map": "/Develop-App-Router/static/js/3.9eb8acfb.chunk.js.map",
+    "index.html": "/Develop-App-Router/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Develop-App-Router/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4786fb2a.chunk.js.LICENSE.txt": "/Develop-App-Router/static/js/2.4786fb2a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Develop-App-Router/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c83f02bf.js",
+    "static/js/2.4786fb2a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.de4a5a73.chunk.js"
+  ]
+}
