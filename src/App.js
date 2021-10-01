@@ -13,7 +13,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn Deploy
+          Learn Adrian Deploy afeqfewwefwerfwrf
         </a>
       </header>
     </div>
